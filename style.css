@@ -1,0 +1,30 @@
+html {
+ 
+    background-color: #FFE7C1;
+    font-family:
+}
+h1{
+    color: #DC84F3;
+    font-style: italic;
+}
+h2{
+    color: #DC84F3;
+    font-style: italic;
+}
+h3{
+    color:#DC84F3;
+    font-style: italic;
+}
+
+/* Universal Selector*/
+*{
+    text-align: center;
+}
+button{
+    background-color: #DC84F3;
+}
+/* ID Selector*/
+#button{
+    text-decoration: none;
+}
+
